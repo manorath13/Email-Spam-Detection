@@ -1,0 +1,71 @@
+From ChatGPT
+
+spam:
+
+1. Dear User,
+
+You have been selected as the lucky winner of a $1000 gift card! Click on the link below to claim your prize now!
+
+[Claim Your Prize](http://example.com)
+
+Hurry, this offer is valid for a limited time only!
+
+Best regards,
+The Rewards Team
+
+2. Hi there,
+
+Are you looking for a way to make money fast? Our new investment plan guarantees high returns with minimal effort. Invest now and watch your money grow exponentially!
+
+Sign up here: [Invest Now](http://example.com)
+
+Don't miss out on this once-in-a-lifetime opportunity!
+
+Regards,
+Wealth Builders Inc.
+
+3. Dear Customer,
+
+We have detected suspicious activity in your account. Please verify your account details immediately to avoid suspension.
+
+Click here to verify: [Verify Now](http://example.com)
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Security Team
+
+
+Not Spam:
+
+1. Hi Team,
+
+Here is the agenda for our meeting next week:
+
+1. Project Updates
+2. Budget Review
+3. Upcoming Deadlines
+4. Q&A
+
+Please review and let me know if there are any additional topics you'd like to discuss.
+
+Best,
+Jane
+
+2. Hi Everyone,
+
+I hope you are all doing well! I'm excited to announce that we are planning a family reunion this summer. It will be held at Grandma's house on July 20th.
+
+Please let us know if you can make it and if you have any suggestions for activities.
+
+Looking forward to seeing you all!
+
+Love,
+Sarah
+
+3. Dear Customer,
+
+Thank you for your recent purchase from our store. Attached is the invoice for your order. If you have any questions or concerns, please don't hesitate to contact us.
+
+Best regards,
+Customer Service
